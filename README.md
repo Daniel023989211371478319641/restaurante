@@ -23,7 +23,7 @@ Lista de pedidos
 
 Identificação de mesa
 
-Histórico de pedidos
+ Hitorico de pedidos
 
 Ordem de solicitação por conta
 
