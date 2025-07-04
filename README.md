@@ -53,6 +53,8 @@ Ele pode permitir que as pessoas façam pedidos para outros lugares, terá tamb�
 9. Quais responsabilidades cada integrante do grupo terá?
 
 Kaique: desenvolvimento
+
 Bruno: banco de dados e integração
+
 Daniel F: diagramação
 
