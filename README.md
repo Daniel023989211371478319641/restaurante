@@ -1,15 +1,15 @@
 # restaurante
 projeto
 
-1. Qual problema seu sistema resolve?
+*1. Qual problema seu sistema resolve?*
 
 Facilita todo atendimento do restaurante, pois tem um cardápio digital, histórico de pedidos e calcula o valor da conta automaticamente.
 
-2. Quem vai usar esse sistema?
+*2. Quem vai usar esse sistema?*
 
 O restaurante.
 
-3. Qual será o diferencial do sistema?
+*3. Qual será o diferencial do sistema?*
 
 Ele irá facilitar o gerenciamento de pedidos no restaurante, tornando mais prático fazer pedidos, evitando até mesmo erros humanos.
 
